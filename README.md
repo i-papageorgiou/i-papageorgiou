@@ -5,5 +5,6 @@ Current Positions:
 - Editor-In-Chief of Vinyl Tap Magazine
     - Created webpage as previous Web Editor
 
-Most Recently: \n- AI strategy and insights intern at Medical Knowledge Group this past summer
+Most Recently: 
+- AI strategy and insights intern at Medical Knowledge Group this past summer
     - AI Validation
