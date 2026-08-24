@@ -1,10 +1,49 @@
-I'm Ilias Papageorgiou, a current Senior at W&M pursuing a **Bachelor of Science** in **Data Science** and Government
+<h1 align="center">Hi, I'm Ilias Papageorgiou</h1>
 
-Current Positions:
-- Database Development and Interface Research Assistant at W&M [Democratic Erosion Lab]()
-- Editor-In-Chief of [Vinyl Tap Magazine]()
-    - Created webpage as previous Web Editor
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Senior+at+William+%26+Mary;B.S.+in+Data+Science+%2B+Government;International+Security+Research;Editor-In-Chief%2C+Vinyl+Tap+Magazine" alt="Typing SVG" />
+</p>
 
-Most Recently: 
-- I was an AI strategy and insights intern at [Medical Knowledge Group]() this past summer
-    - Validating the use of LLMs in Pharmaceutical Market Research
+<p align="center">
+  <img src="https://img.shields.io/badge/William_%26_Mary-Class_of_2027-2E9EF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Major-Data_Science_%26_Government-1a1a2e?style=for-the-badge" />
+</p>
+
+---
+
+### Current Positions
+
+- **International Security Research Associate** — [Futures Group]() @ [Robert M. Gates Initiative in American Statecraft]()
+- **Database Development & Interface Research Assistant** — [W&M Democratic Erosion Lab]()
+- **Editor-In-Chief** — [Vinyl Tap Magazine]()
+  - Previously Web Editor — built the magazine's website from the ground up
+
+### Most Recently
+
+- **AI Strategy & Insights Intern** — [Medical Knowledge Group]()
+  - Validated the use of LLMs in pharmaceutical market research
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=i-papageorgiou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-papageorgiou&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=i-papageorgiou&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>The empty <code>()</code> links above are placeholders — swap in the real URLs whenever they're ready.</i></p>
