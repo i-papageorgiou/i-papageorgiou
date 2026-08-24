@@ -28,22 +28,12 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,cs" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Sims_2-modding-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sims_3-modding-06B6D4?style=for-the-badge" />
 </p>
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=i-papageorgiou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-papageorgiou&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=i-papageorgiou&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center"><i>The empty <code>()</code> links above are placeholders — swap in the real URLs whenever they're ready.</i></p>
