@@ -13,15 +13,17 @@
 
 ### Current Positions
 
-- **International Security Research Associate** — [Futures Group]() @ [Robert M. Gates Initiative in American Statecraft]()
-- **Database Development & Interface Research Assistant** — [W&M Democratic Erosion Lab]()
-- **Editor-In-Chief** — [Vinyl Tap Magazine]()
+- **International Security Research Associate** — [Futures Group](https://www.wm.edu/offices/global-research/about/research-portfolio/current-cohorts/rmg-american-statecraft/pips/) @ [Robert M. Gates Initiative in American Statecraft](https://www.wm.edu/offices/global-research/about/research-portfolio/current-cohorts/rmg-american-statecraft/)
+- **Database Development & Interface Research Assistant** — [US Subnational Democratic Erosion Project](https://democratic-erosion.org/) @ W&M
+- **Editor-In-Chief** — [Vinyl Tap Magazine](https://vinyltapmag.com/)
   - Previously Web Editor — built the magazine's website from the ground up
 
 ### Most Recently
 
-- **AI Strategy & Insights Intern** — [Medical Knowledge Group]()
+- **AI Strategy & Insights Intern** — [Medical Knowledge Group](https://www.mkgny.com/#home)
   - Validated the use of LLMs in pharmaceutical market research
+  - Direct Report to the Chief AI Officer
+  - Worked closely with Data Analytics network-company, [81qd](https://www.81qd.com/)
 
 ---
 
