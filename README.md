@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ilias Papageorgiou</h1>
+<h1 align="center">Ilias Papageorgiou</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Senior+at+William+%26+Mary;B.S.+in+Data+Science+%2B+Government;International+Security+Research;Editor-In-Chief%2C+Vinyl+Tap+Magazine" alt="Typing SVG" />
