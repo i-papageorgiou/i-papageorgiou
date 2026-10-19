@@ -27,6 +27,26 @@
 
 ---
 
+### Featured Projects
+
+#### [Ballot Rejection Project](https://github.com/i-papageorgiou/ballot_rejection_project)
+
+<a href="https://i-papageorgiou.github.io/ballot_rejection_project/"><img src="assets/ballot-rejection.png" width="700" alt="Ballot Rejection Project dashboard" /></a>
+
+Do state mail-voting rules (signature cure, witness/notary requirements, drop boxes, no-excuse absentee) change how many mail ballots get rejected, and does the effect differ between urban and rural counties? Built a county-level panel from the U.S. Election Assistance Commission's EAVS survey and estimated effects three ways (TWFE, Sun-Abraham, and Callaway-Sant'Anna difference-in-differences). All three point to a null effect. **[Live dashboard →](https://i-papageorgiou.github.io/ballot_rejection_project/)**
+
+`Python` `R` `fixest` `did` `pandas`
+
+#### [Radio Logs Analyzer](https://github.com/WCWM-radio/radio_log_analyzer)
+
+<a href="https://wcwm-radio.github.io/radio_log_analyzer/"><img src="assets/radio-log-analyzer.png" width="700" alt="WCWM Rotation year-in-review report" /></a>
+
+Built for WCWM college radio: turns raw DJ song logs into an enriched spreadsheet with album, release year, and Spotify popularity, normalized Discogs genres and subgenres, and optional artist country of origin (MusicBrainz), plus an auto-generated HTML summary report. Concurrent API lookups cut run time by about 45%. Used to produce *Rotation*, a year-in-review of WCWM's 2025–26 on-air log (10,462 songs from 4,245 artists). **[See the report →](https://wcwm-radio.github.io/radio_log_analyzer/)**
+
+`Python` `Spotify API` `Discogs API` `MusicBrainz`
+
+---
+
 ### Tech Stack
 
 <p align="left">
